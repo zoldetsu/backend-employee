@@ -1,0 +1,11 @@
+{
+	"id": {
+		"id": "2ab04421-626a-4122-abc5-18630bfcb40a",
+		"email": "test1@gmail.com",
+		"password": "$2b$10$xfr34aCcc4zFAtLUr7WjieRzeTHGwzu6iXHpQteLTP7OlZ4mKxmUC",
+		"name": "Nazar"
+	},
+	"email": "test1@gmail.com",
+	"name": "Nazar",
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjJhYjA0NDIxLTYyNmEtNDEyMi1hYmM1LTE4NjMwYmZjYjQwYSIsImlhdCI6MTcyNDk0MTA1NCwiZXhwIjoxNzI3NTMzMDU0fQ.2jfmKx1p8GArFGiOKH2nIFspVq5iVlyj9TuIfM4WNUk"
+}
